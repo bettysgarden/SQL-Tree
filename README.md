@@ -10,7 +10,7 @@
 
 Должно появиться меню:
 
-![Screenshot 2023-02-21 at 18.49.55.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/559bb3c6-c710-4ce1-8aa0-41526e383408/Screenshot_2023-02-21_at_18.49.55.png)
+![Screenshot 2023-02-21 at 19 09 39](https://user-images.githubusercontent.com/99659178/220398548-03efe306-56be-4b8d-8ab1-33f797a65888.png)
 
 На котором представлены команды и параметры их ввода для работы с деревом. 
 
@@ -18,4 +18,5 @@
 
 Каждый раз при запуске программы таблица удаляется, если существовала. И создается новая, которая заполняется тестовыми данными. Что-то подобное можно увидеть при первом запуске и выполнении команды `list`:
 
-![Screenshot 2023-02-21 at 18.57.00.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c07f1e3c-f595-4c20-8655-f56e72c30ebc/Screenshot_2023-02-21_at_18.57.00.png)
+![Screenshot 2023-02-21 at 19 10 09](https://user-images.githubusercontent.com/99659178/220398657-f5de7a8b-842d-4db0-9c17-97cfe4c4ec8b.png)
+
